@@ -48,3 +48,8 @@ function lvl1exercise7 () {
     return falsey;
 
 }
+
+function lvl1exercise8 () {
+  const truthy = truth;
+    return truthy;
+}
